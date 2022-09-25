@@ -1,0 +1,23 @@
+{
+  "files.associations": {
+    "iostream": "cpp",
+    "ostream": "cpp",
+    "cstdlib": "cpp",
+    "utility": "cpp",
+    "xiosbase": "cpp",
+    "vector": "cpp",
+    "xstring": "cpp",
+    "string": "cpp",
+    "chrono": "cpp",
+    "future": "cpp",
+    "system_error": "cpp",
+    "xlocale": "cpp",
+    "algorithm": "cpp",
+    "limits": "cpp",
+    "random": "cpp",
+    "deque": "cpp",
+    "format": "cpp",
+    "list": "cpp"
+  },
+  "C_Cpp.dimInactiveRegions": false
+}
