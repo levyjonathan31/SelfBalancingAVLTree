@@ -1,3 +1,9 @@
+## Self Balancing AVL Tree
+Created a Self Balancing AVL Tree using left/right rotations.
+Includes self created test cases using the catch framework
+Learned importance of extensive testing and manipulation of pointers.
+
+Note: Instructions Below Provided By University of Florida COP3530 Course
 ## Important Instructions
 
 1. You can code your project in *src* directory. 
